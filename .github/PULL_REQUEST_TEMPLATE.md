@@ -17,3 +17,6 @@ This should be a short introduction to the reviewer]
 
 ### Extra info
 [Space for anything else]
+
+##### Issue reference
+[Add reference to issue the pull request should close]
